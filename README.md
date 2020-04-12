@@ -4,6 +4,8 @@
 
 [Demo](http://goo.gl/HTayCZ)
 
+![mandelbrot](https://user-images.githubusercontent.com/1646072/79064540-4d668580-7c6f-11ea-9244-8a86223b896b.jpg)
+
 LANZAR LOS DADOS - [Charles Bukowski](https://autores.yavendras.com/charles-bukowski/)
 
 Si vas a intentarlo, ve hasta el final.
