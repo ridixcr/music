@@ -4,9 +4,44 @@
 
 [Demo](http://goo.gl/HTayCZ)
 
+LANZAR LOS DADOS - [Charles Bukowski](https://autores.yavendras.com/charles-bukowski/)
 
-¿ASÍ QUE QUIERES SER ESCRITOR?
-[Charles Bukowski](https://autores.yavendras.com/charles-bukowski/)
+Si vas a intentarlo, ve hasta el final.
+De otra forma ni siquiera comiences.
+
+Si vas a intentarlo, ve hasta el final.
+Esto puede significar perder novias,
+esposas,
+parientes,
+trabajos y,
+quizá tu cordura.
+
+Ve hasta el final.
+Esto puede significar no comer por 3 o 4 días.
+Esto puede significar congelarse en el banco de un parque.
+Esto puede significar la cárcel.
+Esto puede significar burlas, escarnios, soledad…
+La soledad es un regalo.
+Los demás son una prueba de tu insistencia, o
+de cuánto quieres realmente hacerlo.
+Y lo harás,
+a pesar del rechazo y de las desventajas,
+y será mejor que cualquier cosa que hayas imaginado.
+
+Si vas a intentarlo, ve hasta el final.
+No hay otro sentimiento como ese.
+Estarás a solas con los dioses
+y las noches se encenderán con fuego.
+
+Hazlo, hazlo, hazlo.
+Hazlo.
+Hasta el final,
+hasta el final.
+
+Llevarás la vida directo a la perfecta carcajada.
+Es la única buena lucha que hay.
+
+¿ASÍ QUE QUIERES SER ESCRITOR? - [Charles Bukowski](https://autores.yavendras.com/charles-bukowski/)
 
 Si no te sale ardiendo de dentro,
 a pesar de todo,
@@ -66,3 +101,4 @@ seguirá sucediendo hasta que mueras
 ó hasta que muera en ti.
 No hay otro camino.
 Y nunca lo hubo.
+
