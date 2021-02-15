@@ -1,29 +1,49 @@
-body{
-    background-image:url('binary.gif');
+@font-face {
+    font-family: 'Orbitron';
+    src: url('./fonts/Orbitron.svg#Orbitron-Regular') format('svg'), url('./fonts/Orbitron.ttf') format('truetype'), url('./fonts/Orbitron.woff') format('woff'), url('./fonts/Orbitron.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Orbitron';
+    src: url('./fonts/Orbitron.eot');
+    src: url('./fonts/Orbitron.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-image: url('binary.gif');
     margin: 0;
 }
-.contenedor{
+
+.contenedor {
     text-align: center;
     height: 310px;
-    opacity:0.2;
-    filter:alpha(opacity=20);                 
+    opacity: 0.2;
+    filter: alpha(opacity=20);
 }
-.contenedor:hover{
-    opacity:1.0;
-    filter:alpha(opacity=100);
+
+.contenedor:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
 }
-.info{
-    font-family: Frijole;
+
+.info {
+    font-family: Orbitron;
     font-size: 30px;
     font-weight: bold;
-    text-transform: uppercase;              
+    text-transform: uppercase;
     color: black;
     text-shadow: 0px 2px 3px #999;
 }
-.info:hover{          
-    color: white;         
+
+.info:hover {
+    color: white;
 }
-.link{
+
+.link {
     font-family: Orbitron;
     color: black;
     font-size: 20px;
@@ -32,31 +52,100 @@ body{
     text-decoration: none;
     text-shadow: 0px 2px 3px #999;
 }
-.link:hover{
-    color: white;    
+
+.link:hover {
+    color: white;
     text-decoration: blink;
-}            
-.logo{
+}
+
+.logo {
     margin: 0 auto 0 auto;
     width: 300px;
     height: 300px;
-    background: url('avatar.jpg') no-repeat; 
+    background: url('avatar.jpg') no-repeat;
     background-size: cover;
     -webkit-border-radius: 200px;
     -moz-border-radius: 200px;
     border-radius: 200px;
-    border-style:solid;
-    border-width:5px;
-    border-color:black;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
 }
-.player{
+
+.logo:hover {
+    background: url('avatar.jpg') no-repeat;
+    background-size: cover;
+}
+
+.player {
     margin: 50px auto 0 auto;
     width: 200px;
     height: 200px;
-    opacity:0.1;
-    filter:alpha(opacity=10);
+    opacity: 0.1;
+    filter: alpha(opacity=10);
 }
-.player:hover{
-    opacity:1.0;
-    filter:alpha(opacity=100);
+
+.player:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+.radio {
+    font-family: Orbitron;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-shadow: 0px 2px 3px #999;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    ;
+}
+
+.radio:hover {
+    color: chartreuse;
+    text-decoration: blink;
+}
+
+.palpitar {
+    -moz-animation-duration: 400ms;
+    -moz-animation-name: blink;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-direction: alternate;
+    -webkit-animation-duration: 400ms;
+    -webkit-animation-name: blink;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    animation-duration: 400ms;
+    animation-name: blink;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@-moz-keyframes blink {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes blink {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes blink {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
 }
